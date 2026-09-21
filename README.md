@@ -89,13 +89,15 @@ Built a deep learning image classification solution to identify **12 different p
 ### Highlights
 
 * Image preprocessing using OpenCV
-* Data augmentation
-* Transfer learning using **VGG16**
-* Handling class imbalance
-* Model training and evaluation
-* Precision, recall, F1-score and confusion matrix analysis
+* Image resizing, normalization, and label encoding
+* Built and trained a Convolutional Neural Network (CNN)
+* Applied data augmentation to improve model generalization
+* Analyzed class distribution and class imbalance
+* Compared baseline CNN with augmented CNN
+* Achieved approximately 75.2% test accuracy
+* Evaluated using precision, recall, F1-score, and confusion matrix
 
-**Technologies:** Python, TensorFlow, Keras, OpenCV, VGG16
+**Technologies:** Python, TensorFlow, Keras, OpenCV, NumPy, Scikit-learn, Matplotlib
 
 ---
 
