@@ -1,6 +1,6 @@
 # Hi, I'm Nikhila 👋
 
-### AI/ML Engineer | Machine Learning | Deep Learning | Computer Vision | Generative AI
+### AI/ML Engineer | Data Science | Machine Learning | Deep Learning | Computer Vision | Generative AI
 
 I am an **AI/ML enthusiast and engineer** with a background in software quality engineering and hands-on experience building machine learning, deep learning, computer vision, and Generative AI solutions.
 
