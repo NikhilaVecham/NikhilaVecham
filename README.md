@@ -175,20 +175,15 @@ Developed machine learning models to predict whether bank customers are likely t
 
 ---
 
-## 🍽️ FoodHub - Restaurant Revenue Prediction — Regression
+## 🍽️ FoodHub - Exploratory Data Analysis
 
-Built regression models to estimate restaurant annual turnover using restaurant characteristics and operational features.
+Performed an exploratory data analysis and provided actionable insights for a food aggregator company to get a fair idea about the demand of different restaurants and cuisines, which helps them enhance their customer experience and improve the business
 
 ### Highlights
 
 * Exploratory Data Analysis
-* Feature engineering
-* One-hot encoding
-* Outlier treatment
-* Target transformation
-* Model comparison
-
-**Models:** Linear Regression, Random Forest, XGBoost
+* Data Cleaning
+* Data Visualization
 
 ---
 
